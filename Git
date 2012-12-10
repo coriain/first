@@ -1,0 +1,7 @@
+Githelp
+
+Git divides a Subversion-style commit into its two logical pieces: 
+    a local recording of the changes (git commit) and 
+    a push of the changes up to a remote repository (git push)
+
+ Note that the GitHub app for Hub refers to push as sync
